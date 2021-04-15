@@ -3,3 +3,5 @@ Mendeteksi dan membatasi jumlah air yang digunakan untuk mencuci tangan mengguna
 
 Video penjelasan dapat dilihat pada link berikut.
 https://youtu.be/VDz2XoWoOpI
+
+©Ivan Giovanni
